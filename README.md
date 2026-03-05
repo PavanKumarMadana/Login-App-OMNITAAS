@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Login Application - React + Node.js/Express
 
 A full-stack login application built with React (frontend) and Node.js/Express (backend) with professional styling and proper error handling.
@@ -261,3 +262,7 @@ This project is provided as-is for educational purposes.
 ---
 
 **Happy Coding! 🎉**
+=======
+# Login-App-OMNITAAS
+A simple full-stack login application built with React (frontend) and Node.js + Express (backend). The app validates user credentials via a POST /login API and redirects authenticated users to a welcome page while displaying errors for invalid logins. The username is remembered after a successful login.
+>>>>>>> c47932ff8259c110e8f6d1ce2094b871ed4847a9
